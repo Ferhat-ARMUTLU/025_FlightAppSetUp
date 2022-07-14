@@ -39,6 +39,7 @@ INSTALLED_APPS = [
 
     #my apss
     "users",
+    "flight",
 
 ]
 
